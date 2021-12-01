@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Data files (for now)
+tiny-imagenet-200/
+wiki*
